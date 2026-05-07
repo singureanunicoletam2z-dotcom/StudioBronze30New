@@ -46,7 +46,7 @@ The interface mimics a premium smartphone with a dark, elegant color palette fea
 
 <img width="518" height="1021" alt="image" src="https://github.com/user-attachments/assets/48ada739-30e3-4e97-a9f9-0f66a8786e5e" />
 
-
+------------------------------------------------------------------------------------------------------------------------------------
 
   
    
