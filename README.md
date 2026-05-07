@@ -37,7 +37,9 @@ The interface mimics a premium smartphone with a dark, elegant color palette fea
 
 
 
-  Code 2: Studio 30 Bronze - Admin Panel
+  
+   
+   Code 2: Studio 30 Bronze - Admin Panel
 This is the administrative backend system for Studio 30 Bronze, providing role-based access control for staff management. The panel allows salon personnel to monitor and manage customers, track real-time occupancy, and handle subscription minutes.
 
 Key Features:
