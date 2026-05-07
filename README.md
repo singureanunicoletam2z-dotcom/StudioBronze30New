@@ -4,7 +4,10 @@
 
 # StudioBronze30New
 Studio 30 Bronze is a complete tanning salon management system built with Python and Flet, combining a client mobile app and an admin panel.
-Code 1: Studio 30 Bronze - Client Application (Mobile-Style)
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+CODE 1: Studio 30 Bronze - Client Application (Mobile-Style)
 This is a customer-facing mobile application for a professional tanning studio called "Studio 30 Bronze", built with the Flet framework (Python + Flutter). The application simulates a complete smartphone interface with a realistic phone frame, navigation bar, and dynamic island.
 
 Key Features:
@@ -31,7 +34,7 @@ The interface mimics a premium smartphone with a dark, elegant color palette fea
  
 <img width="535" height="1020" alt="image" src="https://github.com/user-attachments/assets/a3442f13-6203-48b5-bd95-05ee97f0acb6" />
 
-===================================================================================================================================
+------------------------------------------------------------------------------------------------------------------------------------
 
 <img width="527" height="1020" alt="image" src="https://github.com/user-attachments/assets/511c9c8b-6f53-43a6-a8ed-394929bcde57" />
 
@@ -47,7 +50,7 @@ The interface mimics a premium smartphone with a dark, elegant color palette fea
 
   
    
-   Code 2: Studio 30 Bronze - Admin Panel
+   CODE 2: Studio 30 Bronze - Admin Panel
 This is the administrative backend system for Studio 30 Bronze, providing role-based access control for staff management. The panel allows salon personnel to monitor and manage customers, track real-time occupancy, and handle subscription minutes.
 
 Key Features:
