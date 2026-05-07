@@ -43,7 +43,7 @@ This is the administrative backend system for Studio 30 Bronze, providing role-b
 Key Features:
 Role-Based Access Control – Three distinct roles with separate passwords:
 
-ȘEF (Chief) – Full access + financial stock visibility
+ȘEF (Boss) – Full access + financial stock visibility
 
 ADMINISTRATOR – View and modify customer data
 
@@ -68,7 +68,7 @@ Auto-Refresh – Updates data every 5 seconds for live monitoring
 Visual Design:
 Dark-themed interface consistent with the client app, using color-coded elements:
 
-Gold for Chief
+Gold for Boss
 
 Teal for Administrator
 
