@@ -27,11 +27,19 @@ The interface mimics a premium smartphone with a dark, elegant color palette fea
 
 <img width="527" height="1025" alt="image" src="https://github.com/user-attachments/assets/0233d7c3-b810-49eb-afb1-74d6363bbb2c" />
 
+------------------------------------------------------------------------------------------------------------------------------------
+ 
 <img width="535" height="1020" alt="image" src="https://github.com/user-attachments/assets/a3442f13-6203-48b5-bd95-05ee97f0acb6" />
+
+===================================================================================================================================
 
 <img width="527" height="1020" alt="image" src="https://github.com/user-attachments/assets/511c9c8b-6f53-43a6-a8ed-394929bcde57" />
 
+------------------------------------------------------------------------------------------------------------------------------------
+
 <img width="533" height="1025" alt="image" src="https://github.com/user-attachments/assets/3f1e4ff0-445c-4af8-b065-a0709fc294ef" />
+
+------------------------------------------------------------------------------------------------------------------------------------
 
 <img width="518" height="1021" alt="image" src="https://github.com/user-attachments/assets/48ada739-30e3-4e97-a9f9-0f66a8786e5e" />
 
@@ -81,9 +89,15 @@ The admin panel provides a clean, professional dashboard optimized for salon sta
 
 <img width="1918" height="1018" alt="image" src="https://github.com/user-attachments/assets/fe0725ca-aa2d-46dc-9e50-a2710ee96328" />
 
+------------------------------------------------------------------------------------------------------------------------------------
+
 <img width="1915" height="1011" alt="image" src="https://github.com/user-attachments/assets/d9e2959b-c6f8-4ee7-824d-21eff7881470" />
 
+------------------------------------------------------------------------------------------------------------------------------------
+
 <img width="1918" height="1020" alt="image" src="https://github.com/user-attachments/assets/944d533e-a965-403c-9082-4e24ebe8167c" />
+
+-------------------------------------------------------------------------------------------------------------------------------------
 
 <img width="1918" height="1021" alt="image" src="https://github.com/user-attachments/assets/88ef9d2d-b37f-4545-b53d-5b1111ab3a22" />
 
